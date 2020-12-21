@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Exit"
+        android:id="@+id/exit"
+        android:icon="@drawable/exit"
+        app:showAsAction="ifRoom"/>
+    <item android:title="Settlement"
+        android:id="@+id/settlement"
+        app:showAsAction="never"/>
+    <item android:title="Bill Distribution"
+        android:id="@+id/billDistribution"
+        app:showAsAction="never"/>
+    <item android:title="Log Feedback"
+        android:id="@+id/feedback"
+        app:showAsAction="never"/>
+    <item android:title="Update Records"
+        android:id="@+id/syncDown"
+        app:showAsAction="never"/>
+    <item android:title="Sync Transaction"
+        android:id="@+id/syncUp"
+        app:showAsAction="never"/>
+    <item android:title="Reprint"
+        android:id="@+id/reprint"
+        app:showAsAction="never"/>
+    <item android:title="Log Out"
+        android:id="@+id/logout"
+        app:showAsAction="never"/>
+</menu>

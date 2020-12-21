@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PersolRevenueManager</string>
+
+
+    <string name="no_such_agent">No such agent</string>
+    <string name="not_cleared">Not cleared to work</string>
+    <string name="description">Collect and Monitor All Your Revenues In One Place</string>
+    <string name="login">Login</string>
+    <string name="first_time_login">You need to be online to sign in the first time</string>
+    <string name="enter_pin">Enter your PIN</string>
+    <string name="setup_pin">Set Up PIN</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="choose_revenue">Choose Revenue:</string>
+    <string name="tax_payer_feedback">Tax Payer Feedback</string>
+    <string name="agent_remarks">Agent Remarks</string>
+    <string name="recipient_name">Recipient Name</string>
+    <string name="recipient_phone">Recipient Phone</string>
+    <string name="start">Start</string>
+    <string name="reprint">reprint</string>
+    <string name="no_data_found">No data found</string>
+    <string-array name="testarray">
+        <item>Choose item</item>
+        <item>item one</item>
+        <item>item two</item>
+        <item>item three</item>
+    </string-array>
+</resources>
